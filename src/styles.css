@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.bg {
+    color: rgb(227, 227, 227);
+    /* Optional: Sets the text color to white for visibility */
+    background-color: rgb(24, 23, 23);
+}
+
+.accordion-button:focus {
+    box-shadow: none !important;
+    border-color: rgba(0, 0, 0, .125) !important;
+    background-color: rgb(189, 189, 189) !important;
+}
+
+.inline-text {
+    display: inline !important;
+}
+
+
+
